@@ -1,0 +1,14 @@
+﻿빌드 시작: 2015-04-16 오전 2:04:15
+     1>2 노드의 "E:\LuckyYoWu\Google Drive\가톨릭대학교\0. 정규학기\2013-2학기\웹프로그래밍\프로젝트\C구현\프로젝트파일\GAME\GAME.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\LuckyYoWu\Google Drive\가톨릭대학교\0. 정규학기\2013-2학기\웹프로그래밍\프로젝트\C구현\프로젝트파일\Debug\GAME.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\LuckyYoWu\Google Drive\가톨릭대학교\0. 정규학기\2013-2학기\웹프로그래밍\프로젝트\C구현\프로젝트파일\Debug\GAME.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\LuckyYoWu\Google Drive\가톨릭대학교\0. 정규학기\2013-2학기\웹프로그래밍\프로젝트\C구현\프로젝트파일\Debug\GAME.lib" /MACHINE:X86 Debug\GAME_CONTINUE.obj
+         Debug\GAME_FIGHT.obj
+         Debug\GAME_FUNCTION.obj
+         Debug\GAME_CREATE.obj
+         Debug\GAME_MAIN.obj
+         GAME.vcxproj -> E:\LuckyYoWu\Google Drive\가톨릭대학교\0. 정규학기\2013-2학기\웹프로그래밍\프로젝트\C구현\프로젝트파일\Debug\GAME.exe
+     1>"E:\LuckyYoWu\Google Drive\가톨릭대학교\0. 정규학기\2013-2학기\웹프로그래밍\프로젝트\C구현\프로젝트파일\GAME\GAME.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.51
