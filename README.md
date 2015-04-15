@@ -3,7 +3,8 @@ C Monster World Consle Game (2013). Very Not Funny
 
 ### Repository Overview
 때는 바야흐로 2013년 2학기. 막 군 전역 후 프로그래밍에 대한 모든 것을 거의 잊은 상태에서 Web Canvas 게임을 만들 위기에 놓였다. 해당 게임을 만들기 전에 게임 구성, 알고리즘 등을 C언어를 사용해 콘솔 버전으로 만들어 본 것. 지금 해봐도 __재미는 없는 것 같다.__
-* MakeProjectTime : 2013. 11 즈음?
+* 프로젝트만든날짜 : 2013. 11 즈음?
+* 실행방법 : Visual Studio로 GAME.sln 파일을 열고 컴파일한다.
 
 ### Game Overview
 ![C Monster World Console ver Screenshot](https://github.com/uyu423/C-Monster-World-Console-Game/blob/master/Screenshot.png)
