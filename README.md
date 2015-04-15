@@ -20,7 +20,7 @@ C Monster World Consle Game (2013). Very Not Funny
 *	Corder 		: [YoWu](mailto:uyu423@gamil.com) ([BLOG](http://luckyyowu.tistory.com))
 *	Organiz.	: [Catholic Univ. of Korea](http://catholic.ac.kr)
 *	Major		: [Computer Science](http://csie.catholic.ac.kr/)
-* Minor : Infomation System Eng
+* Minor : Infomation System Engineering
 *	Develop OS	: M$ Windows ..
 *	PorgramLang	: C
 *	IDE	: Visual Studio 2013
